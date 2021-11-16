@@ -102,7 +102,7 @@ For the provided CSV file, the report in JSON should look like this:
 }
 ```
 
-The full **JSON** response is available [**here**](https://github.com/romaurei/chaski_challenge/blob/main/report_example.json)
+The full **JSON** example response is available [**here**](https://github.com/romaurei/chaski_challenge/blob/main/report_example.json)
 
 ## What is in the visual report?
 
@@ -114,7 +114,7 @@ Here is an example:
 
 ## How are we going to test it?
 
-You should share with us the URL of the endpoint for the service you developed and we will send a **POST** request with a different dataset than the one we provided you.
+You should share with us the URL of the endpoint for the service you developed and we will send a **POST** request with a different dataset than the one we provided to you.
 
 We will check that the JSON response complies with the requirements and the correctness of the calculations.
 
